@@ -11,4 +11,4 @@ Built around the principle: your data stays yours — and provably so.
 
 Project under active development. Open source release planned.
 
-Maintained by [Andreas Schmidt Arts](https://andreasschmidt.arts).
+Maintained by [Andreas Schmidt Arts](https://andreas-schmidt-arts.de).
